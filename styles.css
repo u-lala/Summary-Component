@@ -56,6 +56,7 @@ body {
     padding: 15px 0;
     text-align: left;
     color: hsl(224, 30%, 27%);
+    margin-bottom: 20px;
 }
 .section2 {
     background-color: hsl(0, 0%, 100%);
@@ -68,7 +69,7 @@ body {
     flex-direction: column;
     align-items: stretch;
     gap: 15px;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
 }
 .values > div{
     display: flex;
@@ -172,7 +173,7 @@ svg {
     color: hsl(220, 15%, 55%);
 }
 .btn {
-    padding: 0.5rem 2rem;
+    padding: 0.7rem 2rem;
     width: 100%;
     /* margin-left: 32px;
     margin-top: 18px; */
